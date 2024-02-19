@@ -1,5 +1,8 @@
 # helgg73_infra
 
+bastion_IP = 158.160.148.223
+someinternalhost_IP = 10.131.0.12
+
 Подключение к someinternalhost в одну команду:
 
 `ssh -i ~/.ssh/id_ed25519 -J appuser@158.160.148.223 appuser@someinternalhost`
