@@ -1,0 +1,6 @@
+{
+      "folder_id": "xxxxxxxxxxxx",
+      "source_image_family": "ubuntu-1604-lts",
+      "service_account_key_file": "/Users/hleg/packer-folder/key.json",
+      "ssh_username":  "username"
+}

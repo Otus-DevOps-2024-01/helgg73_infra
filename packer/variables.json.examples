@@ -1,7 +1,0 @@
-{
-      "folder_id": "XXXXXXXXXXXXXXXXXX",
-      "source_image_family": "ubuntu-1604-lts",
-      "service_account_key_file": "XXXXXXXXXXXXXXXXXX",
-      "ssh_username":  "username",
-      "ya_token": "token",
-}
